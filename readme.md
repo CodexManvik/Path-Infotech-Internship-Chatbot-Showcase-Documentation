@@ -15,7 +15,6 @@ This repository showcases **Sofia**, an Azure-based AI chatbot developed during 
 7. [Deployment Guide](#deployment-guide)
 8. [Usage](#usage)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ---
 
@@ -25,7 +24,11 @@ Sofia is an AI-driven chatbot designed to answer natural-language questions over
 
 > **Note:** This is a **showcase** repo containing detailed documentation, architecture diagrams, screenshots, and a breakdown of my contributions. The production code and private endpoints are not included to protect confidentiality.
 
-[Paste screenshot of deployed UI here]
+<img width="1193" height="912" alt="image" src="https://github.com/user-attachments/assets/7e6ab4f4-3586-43de-9d91-c3b4e911d773" />
+
+<img width="1198" height="919" alt="image" src="https://github.com/user-attachments/assets/f6d391a3-fe0a-4c94-be29-ff76806e4674" />
+
+<img width="488" height="894" alt="image" src="https://github.com/user-attachments/assets/9ba0f711-74c8-49c7-94b3-dd210d17662f" />
 
 ---
 
@@ -44,7 +47,8 @@ Sofia is an AI-driven chatbot designed to answer natural-language questions over
 
 Sofia follows a **client-server** model with Azure services as backend components. The diagram below illustrates the system’s high-level design:
 
-[Paste architecture diagram here]
+<img width="940" height="373" alt="image" src="https://github.com/user-attachments/assets/20c69d4a-3daf-425b-ba67-b732fa417013" />
+
 
 **Components:**
 
@@ -69,7 +73,8 @@ Sofia follows a **client-server** model with Azure services as backend component
 6. **Response Delivery:** Aggregated answer with clickable citation IDs.
 7. **Display:** Frontend renders the chat bubble, citations sidebar, and tagging UI.
 
-[Paste sequence diagram here]
+<img width="940" height="1058" alt="image" src="https://github.com/user-attachments/assets/6bfe4a97-222c-4740-bb64-43732ca52fe6" />
+
 
 ---
 
@@ -149,11 +154,6 @@ Contributions are welcome! To contribute:
 4. Run frontend (`npm start`) and backend (`python app.py`).
 5. Create a feature branch, add tests, and open a pull request.
 
----
-
-## 📄 License
-
-This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ---
 
