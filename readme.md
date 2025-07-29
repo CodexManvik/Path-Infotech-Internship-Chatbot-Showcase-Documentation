@@ -14,7 +14,6 @@ This repository showcases **Sofia**, an Azure-based AI chatbot developed during 
 6. [Backend Details](#backend-details)
 7. [Deployment Guide](#deployment-guide)
 8. [Usage](#usage)
-9. [Contributing](#contributing)
 
 ---
 
@@ -26,9 +25,11 @@ Sofia is an AI-driven chatbot designed to answer natural-language questions over
 
 <img width="1193" height="912" alt="image" src="https://github.com/user-attachments/assets/7e6ab4f4-3586-43de-9d91-c3b4e911d773" />
 
-<img width="1198" height="919" alt="image" src="https://github.com/user-attachments/assets/f6d391a3-fe0a-4c94-be29-ff76806e4674" />
-
 <img width="488" height="894" alt="image" src="https://github.com/user-attachments/assets/9ba0f711-74c8-49c7-94b3-dd210d17662f" />
+
+<img width="1356" height="923" alt="image" src="https://github.com/user-attachments/assets/dad96fe4-668c-421b-9498-a053ea05d2ac" />
+
+<img width="479" height="891" alt="image" src="https://github.com/user-attachments/assets/8e243004-661c-40a7-b46a-7e0e6a1a43d6" />
 
 ---
 
@@ -87,7 +88,10 @@ Sofia follows a **client-server** model with Azure services as backend component
   - **FloatingParticles & BackgroundWaves**: Visual effects for engaging UI.
 - **Features:** Dark mode toggle, responsive layout, animated elements.
 
-[Paste screenshot of code snippet or UI panels here]
+<img width="1198" height="919" alt="image" src="https://github.com/user-attachments/assets/f6d391a3-fe0a-4c94-be29-ff76806e4674" />
+  
+<img width="1070" height="497" alt="image" src="https://github.com/user-attachments/assets/1c8b5cbb-c9bb-4b4c-acf6-f2ecf1e6cd04" />
+
 
 ---
 
@@ -143,16 +147,6 @@ Sofia follows a **client-server** model with Azure services as backend component
 5. Toggle dark mode or upload new documents via the upload panel.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork this repo and clone your fork.
-2. Install frontend (`npm install`) and backend (`pip install -r requirements.txt`).
-3. Configure `.env` for Azure & MySQL.
-4. Run frontend (`npm start`) and backend (`python app.py`).
-5. Create a feature branch, add tests, and open a pull request.
 
 
 ---
